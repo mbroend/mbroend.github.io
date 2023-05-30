@@ -104,21 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mathias Brønd Sørensen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  #name             : "Mathias Brønd Sørensen"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Digital Products, Data Science, cool tech, coffee... lots of coffee"
   location         : "Aarhus, Denmark"
-  email            :
+  email            : mail@mathiasbs.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:mail@mathiasbs.com"
+      url: "mailto:mail@mathiasbs.com"
     - label: "mathiasbs.com"
       icon: "fas fa-fw fa-link"
       url: "https://mathiasbs.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mathiasb_s"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
