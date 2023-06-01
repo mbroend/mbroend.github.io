@@ -110,9 +110,9 @@ author:
   location         : "Aarhus, Denmark"
   email            : mail@mathiasbs.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@mathiasbs.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:mail@mathiasbs.com"
     - label: "mathiasbs.com"
       icon: "fas fa-fw fa-link"
       url: "https://mathiasbs.com"
