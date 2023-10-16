@@ -2,17 +2,9 @@
     <channel>
         <title>mathiasbs.com</title>
         <link>http://mathiasbs.com/</link>
-        <description>This is my cool site</description>
+        <description>mathiasbs.com</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mail@mathiasbs.com (Mathias)</managingEditor>
-            <webMaster>mail@mathiasbs.com (Mathias)</webMaster><lastBuildDate>Sun, 15 Oct 2023 20:02:07 &#43;0200</lastBuildDate>
+            <webMaster>mail@mathiasbs.com (Mathias)</webMaster><lastBuildDate>Sun, 15 Oct 2023 20:03:15 &#43;0200</lastBuildDate>
             <atom:link href="http://mathiasbs.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Goodknight</title>
-    <link>http://mathiasbs.com/goodknight/</link>
-    <pubDate>Sun, 15 Oct 2023 20:02:07 &#43;0200</pubDate>
-    <author>Mathias</author>
-    <guid>http://mathiasbs.com/goodknight/</guid>
-    <description><![CDATA[asasdasd]]></description>
-</item>
-</channel>
+        </channel>
 </rss>

@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://mathiasbs.com/goodknight/</loc><lastmod>2023-10-15T20:02:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://mathiasbs.com/</loc><lastmod>2023-10-15T20:02:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://mathiasbs.com/posts/</loc><lastmod>2023-10-15T20:02:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mathiasbs.com/writing/first_post/</loc><lastmod>2023-10-16T21:36:11&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mathiasbs.com/</loc><lastmod>2023-10-16T21:36:11&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mathiasbs.com/writing/</loc><lastmod>2023-10-16T21:36:11&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mathiasbs.com/writing/goodknight/</loc><lastmod>2023-10-16T21:36:11&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://mathiasbs.com/about/</loc><lastmod>2023-10-16T21:36:11&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://mathiasbs.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://mathiasbs.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
