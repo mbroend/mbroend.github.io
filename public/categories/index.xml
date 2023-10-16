@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - mathiasbs.com</title>
+        <link>http://mathiasbs.com/categories/</link>
+        <description>Categories - Category - mathiasbs.com</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mail@mathiasbs.com (Mathias)</managingEditor>
+            <webMaster>mail@mathiasbs.com (Mathias)</webMaster><atom:link href="http://mathiasbs.com/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

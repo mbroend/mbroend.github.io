@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - mathiasbs.com</title>
+        <link>http://mathiasbs.com/posts/</link>
+        <description>All Posts | mathiasbs.com</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>mail@mathiasbs.com (Mathias)</managingEditor>
+            <webMaster>mail@mathiasbs.com (Mathias)</webMaster><lastBuildDate>Sun, 15 Oct 2023 20:02:07 &#43;0200</lastBuildDate><atom:link href="http://mathiasbs.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Goodknight</title>
+    <link>http://mathiasbs.com/goodknight/</link>
+    <pubDate>Sun, 15 Oct 2023 20:02:07 &#43;0200</pubDate>
+    <author>Mathias</author>
+    <guid>http://mathiasbs.com/goodknight/</guid>
+    <description><![CDATA[asasdasd]]></description>
+</item>
+</channel>
+</rss>
