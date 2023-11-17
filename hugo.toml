@@ -49,14 +49,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # url = "/writing/"
     # title will be shown when you hover on this menu link
     # title = ""
-  # [[menu.main]]
-  #   weight = 2
-  #   identifier = "about"
-  #   pre = ""
-  #   post = ""
-  #   name = "About"
-  #   url = "/about/"
-  #   title = ""
+   [[menu.main]]
+     weight = 2
+     identifier = "about"
+     pre = ""
+     post = ""
+     name = "About"
+     url = "/about/"
+     title = ""
   #[[menu.main]]
     #weight = 3
     #identifier = "categories"
@@ -199,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       <h2 style=\"text-align:left;\"> Hi, I'm Mathias, a biomedical engineer turned data scientist <br> <br>
       
       
-       I tinker with stuff until I become sort of good at it, and then move on to something new and exciting <br> <br> 
+       I tinker with stuff until I become pretty good at it, and then move on to something new and exciting <br> <br> 
       
       Currently Lead Data Scientist @<a href="https://VENZO.com">VENZO</a> and Co-Founder @<a href="https://goodknight.ai">GoodKnight.AI</a> 
       </h2>
