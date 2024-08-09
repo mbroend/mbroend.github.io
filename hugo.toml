@@ -1,10 +1,10 @@
-baseURL = "http://mathiasbs.com/"
+baseURL = "http://mathiasbh.com/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "mathiasbs.com"
+title = "mathiasbh.com"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -33,7 +33,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 [author]
   name = "Mathias"
-  email = "mail@mathiasbs.com"
+  email = "mail@mathiasbh.com"
   link = ""
 
 # Menu config
@@ -77,9 +77,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "mathiasbs.com"
+  title = "mathiasbh.com"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "mathiasbs.com"
+  description = "mathiasbh.com"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "mathiasbs.com"
+      name = "mathiasbh.com"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -187,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.jpg"
       #  title shown in home page (HTML format is supported)
-      title = "mathiasbs"
+      title = "mathiasbh"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Data Science, Data Engineering and Digital Products"
       # whether to use typeit animation for subtitle
@@ -216,8 +216,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config about the author
   [params.social]
     GitHub = "mbroend"
-    Linkedin = "mathiasbs"
-    Twitter = "mathiasb_s"
+    Linkedin = "mathiasbh"
+    #Twitter = "mathiasb_s"
     #Instagram = "xxxx"
     #Facebook = "xxxx"
     #Telegram = "xxxx"
@@ -288,7 +288,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "mail@mathiasbs.com"
+    Email = "mail@mathiasbh.com"
     RSS = false # 
 
   #  Page global config
